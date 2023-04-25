@@ -1,5 +1,5 @@
 # Biformer
- TensorFlow and Keras Implementation of the paper - BiFormer: Vision Transformer with Bi-Level Routing Attention
+ TensorFlow and Keras Implementation of the CVPR 2023 paper - BiFormer: Vision Transformer with Bi-Level Routing Attention
  
  Paper : https://arxiv.org/pdf/2303.08810.pdf
  
